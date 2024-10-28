@@ -1,1 +1,0 @@
-import{_ as a}from"./ExpansionPanel.vue_vue_type_style_index_0_lang-CSTMBoBC.js";import{e,o as s,f as o,w as r,t as _,_ as n}from"./index-DqowDhzq.js";const c=e({__name:"AvatarMask",setup(p){return(f,t)=>(s(),o(a,{title:"蒙层头像"},{"text-content":r(()=>t[0]||(t[0]=[_("div",{class:"avatar"},null,-1)])),_:1}))}}),l=n(c,[["__scopeId","data-v-f37357c3"]]);export{l as default};
